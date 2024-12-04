@@ -4,13 +4,13 @@ Welcome to the official repository of **CSEC ASTU**! This project is designed to
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Getting Started](#-getting-started)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🌐 Introduction
 
@@ -18,13 +18,16 @@ CSEC ASTU is a platform aimed at fostering a tech-savvy community through variou
 
 ## ✨ Features
 
-- **Hero Section**: A welcoming hero section with dynamic animations and a call-to-action button.
-- **Divisions**: Detailed sections for each division, highlighting their focus areas and activities.
 - **Responsive Design**: Fully responsive design ensuring a seamless experience across all devices.
+- **Interactive Animations**: Engaging animations and transitions to enhance user experience.
+- **Division Cards**: Individual cards for each division with detailed information.
+- **Typewriter Animation**: Typewriter-style text animation for a dynamic landing page.
+- **Smooth Scrolling**: Smooth scrolling to navigate through the page with ease.
 
 ## 🛠️ Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Framer Motion**: A library for animations and gestures.
 - **Lucide React**: A collection of icons for React.
 - **TypeAnimation**: A library for typewriter-style text animations.
@@ -35,7 +38,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/csec-astu.git
+   git clone https://github.com/estif0/csec-astu.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -47,7 +50,7 @@ To get a local copy up and running, follow these simple steps:
    ```
 4. **Start the development server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🗂️ Project Structure
@@ -62,7 +65,7 @@ src/
 │   │   └── DivisionCard.jsx
 │   └── ...
 ├── App.js
-├── index.js
+├── main.js
 └── ...
 ```
 
